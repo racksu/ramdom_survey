@@ -50,5 +50,8 @@ function selectUrl() {
   return selectedUrl;
 }
 
-// 跳轉到選擇的網址
-window.location.href = selectUrl();
+// 網頁載入時執行
+window.addEventListener('load', function() {
+  // 跳轉到選擇的網址
+  window.location.href = selectUrl();
+});
