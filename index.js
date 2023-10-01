@@ -2,13 +2,13 @@
 // 假設您有八個網址，放在一個陣列中
 var urls = [
   	'https://www.surveycake.com/s/mlez6',
-	'https://www.surveycake.com/s/44l9Z',
-	'https://www.surveycake.com/s/DKOkO',
-	'https://www.surveycake.com/s/V2OoN',
-	'https://www.surveycake.com/s/4bwv1',
-	'https://www.surveycake.com/s/L9YMe',
-	'https://www.surveycake.com/s/y6xLe',
-	'https://www.surveycake.com/s/Q3GXA'
+	'https://www.surveycake.com/s/9Qpma',
+	'https://www.surveycake.com/s/bxvo1',
+	'https://www.surveycake.com/s/qX3v8',
+	'https://www.surveycake.com/s/mQOPM',
+	'https://www.surveycake.com/s/Vk90O',
+	'https://www.surveycake.com/s/ZeLnm',
+	'https://www.surveycake.com/s/MOw1R'
 	
 ];
 
