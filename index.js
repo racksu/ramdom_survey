@@ -1,14 +1,14 @@
 //window.location.href = urls.length > 0 ? urls[Math.floor(Math.random() * urls.length)] : 'https://github.com/hms5232/random-survey';
 // 假設您有八個網址，放在一個陣列中
 var urls = [
-  	'https://www.surveycake.com/s/mlez6',
-	'https://www.surveycake.com/s/9Qpma',
-	'https://www.surveycake.com/s/bxvo1',
-	'https://www.surveycake.com/s/qX3v8',
-	'https://www.surveycake.com/s/mQOPM',
-	'https://www.surveycake.com/s/Vk90O',
-	'https://www.surveycake.com/s/ZeLnm',
-	'https://www.surveycake.com/s/MOw1R'
+  	'https://www.surveycake.com/s/Y7Y9y',
+	'https://www.surveycake.com/s/DZ7NY',
+	'https://www.surveycake.com/s/ekNmB',
+	'https://www.surveycake.com/s/rxMWo',
+	'https://www.surveycake.com/s/mo8O9',
+	'https://www.surveycake.com/s/MZzwe',
+	'https://www.surveycake.com/s/12Rpl',
+	'https://www.surveycake.com/s/NZQWx'
 	
 ];
 
